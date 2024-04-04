@@ -1,1 +1,1 @@
-scmod.mit.edu
+vc-domain-verify=scmod.mit.edu,0aaa35ad4c7aa962a76f
